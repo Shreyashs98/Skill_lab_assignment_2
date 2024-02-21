@@ -1,8 +1,3 @@
-Certainly! Below is an example of how you can structure your README with the API routes:
-
-```markdown
-# Blogging Platform API Documentation
-
 ## Installation
 
 1. Clone the repository:
